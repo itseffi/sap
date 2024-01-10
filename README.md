@@ -5,4 +5,4 @@ This application classifies a user's input as POSITIVE or NEGATIVE based on the 
 
 ## Demo
 To see the app in action, please check out the link below:
-* [Streamlit Sharing](https://sentimentanalysis-app.streamlit.app/)
+* [Streamlit](https://sentimentanalysis-app.streamlit.app/)
